@@ -1,0 +1,7 @@
+us_iname = "us-server"
+us_ami ="ami-00f43ee0e98d52529"
+us_itype= "t3.micro"
+
+ap_iname="ap-server"
+ap_ami = "ami-0f80fc0ee3551bb3e"
+ap_itype= "c7i-flex.large"
